@@ -1,0 +1,18 @@
+# Data files
+*.csv
+temperatures.csv
+
+# Plot/visualization files
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+temperature_chart.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
